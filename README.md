@@ -8,6 +8,7 @@
 |[Fine-Tune-LLama2](https://github.com/avinash-218/AI-Linguist-Playground/tree/master/Fine-Tune-LLama2)|LoRA-PEFT-Llama2|[Llama2-1k](https://huggingface.co/datasets/mlabonne/guanaco-llama2-1k)|
 |[Hugging-Face-101](https://github.com/avinash-218/AI-Linguist-Playground/tree/master/Hugging-Face-101)|Hugging_Face-Arxiv-Stable_Diffusion|-|
 |[Image-Similarity-Search](https://github.com/avinash-218/AI-Linguist-Playground/tree/master/Image-Similarity-Search)|FAISS-ChromaDB-ResNet-Clip|Custom|
+|[LangChain-101](https://github.com/avinash-218/AI-Linguist-Playground/tree/master/LangChain-101)|ChromaDB-Langchain-Ollama|Custom|
 |[LangChain-LlamaIndex](https://github.com/avinash-218/AI-Linguist-Playground/tree/master/LangChain-LlamaIndex)|LangChain-Llama_Index-Mistral-Flan_t5-Falcon|-|
 |[Ollama-101](https://github.com/avinash-218/AI-Linguist-Playground/tree/master/Ollama-101)|Ollama-Llama2-Deepseek_r1|-|
 |[RAG-101](https://github.com/avinash-218/AI-Linguist-Playground/tree/master/RAG-101)|Ollama-ChromaDB-Deepseek_r1|-|
