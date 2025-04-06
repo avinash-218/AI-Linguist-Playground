@@ -17,5 +17,6 @@
 |[RAG-With-Txt](https://github.com/avinash-218/AI-Linguist-Playground/tree/master/RAG-With-Txt)|LangChain-Gemini_1.5_pro-Falcon-ChromaDB-Ollama|-|
 |[RAG-With-Web](https://github.com/avinash-218/AI-Linguist-Playground/tree/master/RAG-With-Web)|LangChain-Gemini_1.5_pro-Falcon-ChromaDB|-|
 |[Spam-Classification-ML](https://github.com/avinash-218/AI-Linguist-Playground/tree/master/Spam-Classification-ML)|NLTK-Gensim-Word2Vec|-|
+|[Transformer-From-Scratch](https://github.com/avinash-218/AI-Linguist-Playground/tree/master/Transformer-From-Scratch)|Torch-HuggingFace|-|
 |[VectorSearch_RAG](https://github.com/avinash-218/AI-Linguist-Playground/tree/master/VectorSearch_RAG)|MiliLm_L6-MongoDB-Atlas|-|
 |[Word_embedding_Techniques](https://github.com/avinash-218/AI-Linguist-Playground/tree/master/Word_Embedding_Techniques)|Tensorflow-Keras|-|
