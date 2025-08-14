@@ -6,6 +6,7 @@
 |[Fake-News-Classifier-Using-Bidirectional-LSTM](https://github.com/avinash-218/AI-Linguist-Playground/tree/master/Fake-News-Classifier-Using-Bidirectional-LSTM)|Tensorflow-Keras-LSTM|[Fake News](https://www.kaggle.com/c/fake-news/data)|
 |[Fake-News-Classifier-Using-LSTM](https://github.com/avinash-218/AI-Linguist-Playground/tree/master/Fake-News-Classifier-Using-LSTM)|Tensorflow-Keras-LSTM|[Fake News](https://www.kaggle.com/c/fake-news/data)|
 |[Fine-Tune-LLama2](https://github.com/avinash-218/AI-Linguist-Playground/tree/master/Fine-Tune-LLama2)|LoRA-PEFT-Llama2|[Llama2-1k](https://huggingface.co/datasets/mlabonne/guanaco-llama2-1k)|
+|[GraphDB](https://github.com/avinash-218/AI-Linguist-Playground/tree/master/GraphDB)|Neo4j-Langchain|[Custom](https://raw.githubusercontent.com/tomasonjo/blog-datasets/main/movies/movies_small.csv)|
 |[Hugging-Face-101](https://github.com/avinash-218/AI-Linguist-Playground/tree/master/Hugging-Face-101)|Hugging_Face-Arxiv-Stable_Diffusion|-|
 |[Image-Similarity-Search](https://github.com/avinash-218/AI-Linguist-Playground/tree/master/Image-Similarity-Search)|FAISS-ChromaDB-ResNet-Clip|Custom|
 |[LangChain-101](https://github.com/avinash-218/AI-Linguist-Playground/tree/master/LangChain-101)|ChromaDB-Langchain-Ollama|Custom|
