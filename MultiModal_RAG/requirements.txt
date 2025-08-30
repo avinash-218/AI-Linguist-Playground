@@ -1,0 +1,9 @@
+fitz
+transformers
+langchain
+pillow
+torch
+numpy
+scikit-learn
+langchain[openai]
+faiss-cpu
